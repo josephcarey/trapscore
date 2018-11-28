@@ -1,6 +1,6 @@
 # TrapScore
 
-TrapScore is a full-stack web application for managing trap shooting competitions. It provides an interface for registering, squadding, scheduling, judging, and viewing and exporting results. It provides automated text updates to participants to help them get to their trap on time.
+TrapScore was created for client Sawyer Mathiesen to streamline trap shooting competitions. Currently, information about where participants need to be and at what time is processed on paper, which leads to scheduling gaps and inefficiency. Trapscore addresses these issues with a full-stack web application that provides an interface for registering, squadding, scheduling and judging, as well as viewing and exporting results. In addition, it provides automated text message updates to participants to help them get to their trap on time and cut down on the time that traps sit vacant.
 
 ## Getting Started
 
