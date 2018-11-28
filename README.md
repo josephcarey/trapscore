@@ -1,4 +1,4 @@
-# TrapScore
+# TrapScores
 
 TrapScore is a full-stack web application for managing trap shooting competitions. It provides an interface for registering, squadding, scheduling, judging, and viewing and exporting results. It provides automated text updates to participants to help them get to their trap on time.
 
